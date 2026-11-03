@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+
+# Vercel
+.vercel
+
+# Temp files
+*.tmp
+*.log
+
+.venv/
